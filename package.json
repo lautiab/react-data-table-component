@@ -1,6 +1,6 @@
 {
   "name": "@laimar/react-data-table-component",
-  "version": "7.5.0",
+  "version": "7.5.1",
   "description": "A simple to use declarative react based data table",
   "main": "dist/index.cjs.js",
   "module": "dist/index.es.js",
